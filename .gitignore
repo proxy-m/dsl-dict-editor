@@ -1,0 +1,12 @@
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.a
+*.o
+*.ko
+*.class
+*.jar
+*.bak
+
